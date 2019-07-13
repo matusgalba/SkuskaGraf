@@ -1,2 +1,0 @@
-# SkuskaGraf
-Created with CodeSandbox
